@@ -1,0 +1,61 @@
+body {
+  background-color: #ffe5e5; /* Light pink, like the inside of a strawberry */
+  color: #4a4a4a; /* Soft gray for text */
+  font-family: "Tinos", serif; /* Tinos font, similar to Times New Roman */
+  line-height: 1.6; /* Increase line height for better readability */
+}
+
+h1 {
+  color: #4b9458; /* Slightly darker green, simulating the stem */
+  margin-top: 20px; /* Increased top margin */
+  margin-bottom: 15px; /* Increased bottom margin */
+  padding-top: 10px; /* Added padding at the top */
+  padding-bottom: 10px; /* Added padding at the bottom */
+}
+
+h2,
+h3 {
+  color: #ff6b6b; /* A strawberry red */
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+p,
+ul,
+ol,
+dl {
+  margin-top: 10px; /* Increased top margin for paragraphs and lists */
+  margin-bottom: 10px; /* Increased bottom margin for paragraphs and lists */
+  padding-top: 5px; /* Added padding at the top */
+  padding-bottom: 5px; /* Added padding at the bottom */
+}
+
+a {
+  color: #ff9671; /* Pastel strawberry color */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6b6b;
+  background-color: #98d7a5; /* Soft green background on hover */
+}
+
+button {
+  background-color: #98d7a5; /* Refreshing green for buttons */
+  color: white;
+  border: none;
+  padding: 12px 24px; /* Slightly increased padding for buttons */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-family: "Tinos", serif;
+}
+
+button:hover {
+  background-color: #76c893; /* A slightly darker green on hover */
+}
+
+/* Additional styles as needed */
